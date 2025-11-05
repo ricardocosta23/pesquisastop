@@ -1,0 +1,137 @@
+Board: ⭐ Resultado Avaliações
+Board ID: 9242892489
+Total Columns: 132
+================================================================================
+
+Name at name
+Destino at text_mkrb17ct
+Hotel 1 at text_mkrjf13y
+Hotel 2 at text_mkrjk4yg
+Comentários at long_text_mkrjwfwx
+Sugestão Destino at long_text_mkrjd4z0
+Nota Malha aérea at numeric_mkrjqam
+Nota Hotel 1 at numeric_mkrjpfxv
+Nota Hotel 2 at numeric_mkrjg1ar
+Nota passeio 1 at numeric_mkrj6132
+Nota viagem geral at numeric_mkrjv5re
+Cliente at text_mkrjdnry
+Log de criação at pulse_log_mkrkyzrw
+Num negócio at text_mkrkqj1g
+Status nota geral at formula_mkrncx7a
+Nota passeio 3 at numeric_mksdyxw2
+Nota passeio 2 at numeric_mksdsjte
+Nota passeio 4 at numeric_mksdy42p
+Nome do guia at text_mksdvk9t
+Coordenador direto guia at text_mksd1r88
+Teve No Show? at text_mksdsh42
+Quantiidade no show at numeric_mksdwqef
+Convidados No show at long_text_mksdpbqr
+Teve malha aérea? at text_mksd83pc
+nota malha aérea at numeric_mksdw5nf
+Nota assentos adequados at numeric_mksd3094
+Teve assistência aeroporto? at text_mksd9gy3
+Nota assistência aeroporto? at numeric_mksdt1bq
+Teve conexão? at text_mksd77w3
+Nota tempo conexão at numeric_mksds0py
+Avaliação cias aéreas at long_text_mksdw43g
+teve DMC? at text_mksdfbbm
+Nome DMC 1 at text_mksdhgmp
+Nome DMC 2 at text_mksdaqvj
+Nota DMC 1 at numeric_mksdja3e
+Nota DMC 2 at numeric_mksdv98h
+Nome coordenador DMC 1 at text_mksdpj36
+Nome coordenador DMC 2 at text_mksdcb45
+Nome guias locais at long_text_mksdgq94
+Nota guias locais at numeric_mksdsem2
+comentarios guias locais at long_text_mksdg5nd
+Teve Transfer? at text_mksd3zfv
+Nota transfer at numeric_mksd391j
+comentários transfer at long_text_mksdxghk
+Ocorrências médicas at text_mksdp1ta
+Seguro foi acionado? at text_mksd2s53
+Comprovantes sinistro enviados ? at text_mksd83af
+Extravio bagagens? at text_mksdncb6
+Material extra? at text_mksdts20
+Comentários Guia at long_text_mksdfcf4
+Sugestões at long_text_mksdxwh3
+Passeio 4 at text_mksdppd8
+Passeio 3 at text_mksdr0qv
+Passeio 1 at text_mksdf2av
+Passeio 2 at text_mksd268p
+Guias locais? at text_mksqbpvq
+Teve Alimentação at text_mksqsmjv
+Nota alimentação at numeric_mksqce6j
+Comentários alimentação at long_text_mksq9zqr
+Avaliação material at numeric_mksqebx9
+Custos Extras? at text_mksq4pty
+Quais custos extras? at long_text_mksq9rnp
+Form enviado aos clientes? at text_mksqqgxd
+Função do guia at text_mksqftvq
+Data viagem at text_mksq2j87
+Teve malha aerea? at text_mksv78v8
+Status at color_mksvbpda
+Tipo at color_mksvhn92
+Comentário passeio at long_text_mksvbj9b
+Rest 1 at text_mksvnywe
+Nota Rest 1 at numeric_mksv5c1r
+Rest 2 at text_mksvbzw7
+Nota Rest 2 at numeric_mksvwpmx
+Rest 3 at text_mksv90t7
+Nota Rest 3 at numeric_mksvw70j
+Rest 4 at text_mksv7z2r
+Nota Rest 4 at numeric_mksvncrj
+Rest 5 at text_mksv5a0x
+Nota Rest 5 at numeric_mksvcc72
+Nome at text_mkswbqbp
+Empresa at text_mkswah1t
+Como foi sua experiência com a Top Service? at numeric_mkswcfyz
+Avalie a qualidade e a criatividade da nossa proposta inicial. at numeric_mkswwx18
+Teve material de comunicação produzido pela Top Service? at text_mkswsey8
+Avalie a qualidade e a criatividade dos materiais de comunicação? (KV, tags, carta de boas-vindas, banners e outros...) at numeric_mksw7pb4
+Avalie o gerente de contas que acompanhou seu projeto at numeric_mkswxtje
+Avalie a qualidade do nosso atendimento corporativo? at numeric_mksw2p8t
+Na sua viagem teve RSVP? (Atendimento ao convidado) at text_mkswgq1m
+Avalie a qualidade do RSVP (Atendimento ao convidado) at numeric_mksw7wav
+Na sua viagem teve equipe de campo da Top Service? at text_mkswzbhc
+Avalie a qualidade da equipe de campo? (Guias Top Service) at numeric_mkswe8sf
+Você utilizou algum dos nossos serviços de tecnologia? (dashboard de inscrições, aplicativo de viagem ou credenciamento) at text_mkswp6dk
+Avalie nossos serviços de tecnologia. at numeric_mksweem
+Qual nota você da para a viagem de uma maneira geral? at numeric_mkswarb1
+Por favor deixe comentários ou sugestões que possam contribuir para nossa melhoria contínua. at long_text_mksw2m76
+Nota Top antes viagem at numeric_mkw5ggsf
+Hotel 3 at text_mkwbhmb8
+Hotel 4 at text_mkwb72y5
+Nota Hotel 4 at numeric_mkwbspwv
+Nota Hotel 3 at numeric_mkwbs9zj
+Comente experiencia at long_text_mkwbsxh0
+Comente criacao at long_text_mkwb57md
+Passeio 5 at text_mkwb139p
+Passeio 6 at text_mkwbr83g
+Passeio 7 at text_mkwbay38
+Passeio 8 at text_mkwbcdag
+Passeio 9 at text_mkwbae9e
+Passeio 10 at text_mkwb7sn7
+Nota passeio 5 at numeric_mkwb8wbk
+Nota passeio 6 at numeric_mkwbxvtr
+Nota passeio 7 at numeric_mkwbvrp7
+Nota passeio 8 at numeric_mkwbyg53
+Nota passeio 9 at numeric_mkwbb4tc
+Nota passeio 10 at numeric_mkwbwt0q
+Rest 6 at text_mkwbx4dw
+Nota Rest 6 at numeric_mkwbw80h
+Rest 7 at text_mkwb3h9m
+Nota Rest 7 at numeric_mkwb2tr4
+Rest 8 at text_mkwbvtja
+Nota Rest 8 at numeric_mkwb301n
+Rest 9 at text_mkwbremc
+Nota Rest 9 at numeric_mkwbr94z
+Rest 10 at text_mkwbacpf
+Nota Rest 10 at numeric_mkwbk94v
+Comente Qualidade at long_text_mkwb4g5f
+monday Doc at doc_mkwrmync
+Arquivos at file_mkwr2gkw
+Status 1 at color_mkwrvtna
+De 1 a 10, o quanto você indicaria a Top Service para realização de uma futura viagem? at numeric_mkwx31h6
+Subelementos at subtasks_mkwzrkn4
+Como você avalia de os brindes entregues, no seu apartamento? at numeric_mkwzk7ty
+Avalie Destino at numeric_mkwzag7t

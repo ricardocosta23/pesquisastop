@@ -1,0 +1,77 @@
+Sections with column title and internal name:
+
+GERAL - Name (name) - Cliente (text_mkrjdnry) - Nome (text_mkswbqbp) -
+Empresa (text_mkswah1t) - Destino (text_mkrb17ct) - Sugestão Destino
+(long_text_mkrjd4z0) - Comentários (long_text_mkrjwfwx) - Sugestões
+(long_text_mksdxwh3) - Log de criação (pulse_log_mkrkyzrw) - Num negócio
+(text_mkrkqj1g) - Data viagem (text_mksq2j87) - Status
+(color_mksvbpda) - Tipo (color_mksvhn92) - Form enviado aos clientes?
+(text_mksqqgxd) - Avaliação material (numeric_mksqebx9) - Teve material
+de comunicação produzido pela Top Service? (text_mkswsey8) - Avalie a
+qualidade e a criatividade dos materiais de comunicação?
+(numeric_mksw7pb4) - Você utilizou algum dos nossos serviços de
+tecnologia? (text_mkswp6dk) - Avalie nossos serviços de tecnologia.
+(numeric_mksweem) - Como foi sua experiência com a Top Service?
+(numeric_mkswcfyz) - Avalie a qualidade da nossa proposta inicial.
+(numeric_mkswwx18) - Avalie o gerente de contas que acompanhou seu
+projeto. (numeric_mkswxtje) - Avalie a qualidade do nosso atendimento
+corporativo. (numeric_mksw2p8t) - Comente experiencia
+(long_text_mkwbsxh0) - Comente criacao (long_text_mkwb57md) - Comente
+Qualidade (long_text_mkwb4g5f) - Por favor deixe comentários…
+(long_text_mksw2m76) - De 1 a 10… indicaria Top Service
+(numeric_mkwx31h6) - Nota Top antes viagem (numeric_mkw5ggsf) - Nota
+viagem geral (numeric_mkrjv5re) - Qual nota você da para a viagem geral?
+(numeric_mkswarb1) - monday Doc (doc_mkwrmync) - Arquivos
+(file_mkwr2gkw) - Subelementos (subtasks_mkwzrkn4)
+
+HOSPEDAGEM - Hotel 1 (text_mkrjf13y) - Hotel 2 (text_mkrjk4yg) - Hotel 3
+(text_mkwbhmb8) - Hotel 4 (text_mkwb72y5) - Nota Hotel 1
+(numeric_mkrjpfxv) - Nota Hotel 2 (numeric_mkrjg1ar) - Nota Hotel 3
+(numeric_mkwbs9zj) - Nota Hotel 4 (numeric_mkwbspwv)
+
+PASSEIOS - Passeio 1 (text_mksdf2av) - Passeio 2 (text_mksd268p) -
+Passeio 3 (text_mksdr0qv) - Passeio 4 (text_mksdppd8) - Passeio 5
+(text_mkwb139p) - Passeio 6 (text_mkwbr83g) - Passeio 7
+(text_mkwbay38) - Passeio 8 (text_mkwbcdag) - Passeio 9
+(text_mkwbae9e) - Passeio 10 (text_mkwb7sn7) - Comentário passeio
+(long_text_mksvbj9b) - Nota passeio 1 (numeric_mkrj6132) - Nota passeio
+2 (numeric_mksdsjte) - Nota passeio 3 (numeric_mksdyxw2) - Nota passeio
+4 (numeric_mksdy42p) - Nota passeio 5 (numeric_mkwb8wbk) - Nota passeio
+6 (numeric_mkwbxvtr) - Nota passeio 7 (numeric_mkwbvrp7) - Nota passeio
+8 (numeric_mkwbyg53) - Nota passeio 9 (numeric_mkwbb4tc) - Nota passeio
+10 (numeric_mkwbwt0q)
+
+GUIAS - Nome do guia (text_mksdvk9t) - Função do guia (text_mksqftvq) -
+Coordenador direto guia (text_mksd1r88) - Guias locais?
+(text_mksqbpvq) - Nome guias locais (long_text_mksdgq94) - Nota guias
+locais (numeric_mksdsem2) - comentarios guias locais
+(long_text_mksdg5nd) - Comentários Guia (long_text_mksdfcf4) - Na sua
+viagem teve equipe de campo? (text_mkswzbhc) - Avalie a qualidade da
+equipe de campo (numeric_mkswe8sf) - Na sua viagem teve RSVP?
+(text_mkswgq1m) - Avalie a qualidade do RSVP (numeric_mksw7wav) - Como
+você avalia os brindes entregues? (numeric_mkwzk7ty)
+
+DMC - teve DMC? (text_mksdfbbm) - Nome DMC 1 (text_mksdhgmp) - Nome DMC
+2 (text_mksdaqvj) - Nome coordenador DMC 1 (text_mksdpj36) - Nome
+coordenador DMC 2 (text_mksdcb45) - Nota DMC 1 (numeric_mksdja3e) - Nota
+DMC 2 (numeric_mksdv98h)
+
+TRANSPORTE LOCAL - Teve Transfer? (text_mksd3zfv) - Nota transfer
+(numeric_mksd391j) - comentários transfer (long_text_mksdxghk)
+
+OCORRÊNCIAS - Ocorrências médicas (text_mksdp1ta) - Seguro foi acionado?
+(text_mksd2s53) - Comprovantes sinistro enviados? (text_mksd83af) -
+Extravio bagagens? (text_mksdncb6) - Material extra? (text_mksdts20) -
+Custos Extras? (text_mksq4pty) - Quais custos extras?
+(long_text_mksq9rnp)
+
+ALIMENTAÇÃO - Teve Alimentação (text_mksqsmjv) - Nota alimentação
+(numeric_mksqce6j) - Comentários alimentação (long_text_mksq9zqr) -
+Restaurantes (Rest 1–10 + notas)
+
+AÉREO - Teve malha aérea? (text_mksd83pc) - Nota Malha aérea
+(numeric_mkrjqam) - nota malha aérea (numeric_mksdw5nf) - Nota assentos
+adequados (numeric_mksd3094) - Teve assistência aeroporto?
+(text_mksd9gy3) - Nota assistência aeroporto (numeric_mksdt1bq) - Teve
+conexão? (text_mksd77w3) - Nota tempo conexão (numeric_mksds0py) -
+Avaliação cias aéreas (long_text_mksdw43g)
